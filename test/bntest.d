@@ -1,0 +1,61 @@
+bntest.c
+Nota: inclusión del archivo: C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\assert.h
+Nota: inclusión del archivo:  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt.h
+Nota: inclusión del archivo:   C:\VSStudio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\vcruntime.h
+Nota: inclusión del archivo:    C:\VSStudio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\sal.h
+Nota: inclusión del archivo:     C:\VSStudio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\concurrencysal.h
+Nota: inclusión del archivo:    C:\VSStudio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\vadefs.h
+Nota: inclusión del archivo: C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\errno.h
+Nota: inclusión del archivo: C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\stdio.h
+Nota: inclusión del archivo:  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_wstdio.h
+Nota: inclusión del archivo:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_stdio_config.h
+Nota: inclusión del archivo: C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\string.h
+Nota: inclusión del archivo:  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_memory.h
+Nota: inclusión del archivo:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_memcpy_s.h
+Nota: inclusión del archivo:    C:\VSStudio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\vcruntime_string.h
+Nota: inclusión del archivo:  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_wstring.h
+Nota: inclusión del archivo: C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\ctype.h
+Nota: inclusión del archivo:  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_wctype.h
+Nota: inclusión del archivo: C:\cpython-3.11\externals\openssl-1.1.1m\include\openssl/bn.h
+Nota: inclusión del archivo:  C:\cpython-3.11\externals\openssl-1.1.1m\include\openssl/e_os2.h
+Nota: inclusión del archivo:   C:\cpython-3.11\externals\openssl-1.1.1m\tmp64dll\include\openssl/opensslconf.h
+Nota: inclusión del archivo:    C:\cpython-3.11\externals\openssl-1.1.1m\include\openssl/opensslv.h
+Nota: inclusión del archivo:   C:\VSStudio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\stdint.h
+Nota: inclusión del archivo:  C:\cpython-3.11\externals\openssl-1.1.1m\tmp64dll\include\openssl/opensslconf.h
+Nota: inclusión del archivo:  C:\cpython-3.11\externals\openssl-1.1.1m\include\openssl/ossl_typ.h
+Nota: inclusión del archivo:   C:\VSStudio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\limits.h
+Nota: inclusión del archivo:  C:\cpython-3.11\externals\openssl-1.1.1m\include\openssl/crypto.h
+Nota: inclusión del archivo:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\stdlib.h
+Nota: inclusión del archivo:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_malloc.h
+Nota: inclusión del archivo:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_search.h
+Nota: inclusión del archivo:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\stddef.h
+Nota: inclusión del archivo:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_wstdlib.h
+Nota: inclusión del archivo:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\time.h
+Nota: inclusión del archivo:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_wtime.h
+Nota: inclusión del archivo:   C:\cpython-3.11\externals\openssl-1.1.1m\include\openssl/safestack.h
+Nota: inclusión del archivo:    C:\cpython-3.11\externals\openssl-1.1.1m\include\openssl/stack.h
+Nota: inclusión del archivo:   C:\cpython-3.11\externals\openssl-1.1.1m\tmp64dll\include\openssl/opensslconf.h
+Nota: inclusión del archivo:   C:\cpython-3.11\externals\openssl-1.1.1m\include\openssl/cryptoerr.h
+Nota: inclusión del archivo:    C:\cpython-3.11\externals\openssl-1.1.1m\include\openssl/symhacks.h
+Nota: inclusión del archivo:  C:\cpython-3.11\externals\openssl-1.1.1m\include\openssl/bnerr.h
+Nota: inclusión del archivo: C:\cpython-3.11\externals\openssl-1.1.1m\include\openssl/err.h
+Nota: inclusión del archivo:  C:\cpython-3.11\externals\openssl-1.1.1m\include\openssl/bio.h
+Nota: inclusión del archivo:   C:\VSStudio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\stdarg.h
+Nota: inclusión del archivo:   C:\cpython-3.11\externals\openssl-1.1.1m\include\openssl/bioerr.h
+Nota: inclusión del archivo:  C:\cpython-3.11\externals\openssl-1.1.1m\include\openssl/lhash.h
+Nota: inclusión del archivo: C:\cpython-3.11\externals\openssl-1.1.1m\include\openssl/rand.h
+Nota: inclusión del archivo:  C:\cpython-3.11\externals\openssl-1.1.1m\include\openssl/randerr.h
+Nota: inclusión del archivo: C:\cpython-3.11\externals\openssl-1.1.1m\include\internal/nelem.h
+Nota: inclusión del archivo: C:\cpython-3.11\externals\openssl-1.1.1m\include\internal/numbers.h
+Nota: inclusión del archivo: C:\cpython-3.11\externals\openssl-1.1.1m\test\testutil.h
+..\test\bntest.c(120): warning C4244: 'función': conversión de 'unsigned __int64' a 'const unsigned long'; posible pérdida de datos
+..\test\bntest.c(1799): warning C4267: 'función': conversión de 'size_t' a 'int'; posible pérdida de datos
+..\test\bntest.c(1801): warning C4267: 'función': conversión de 'size_t' a 'const int'; posible pérdida de datos
+..\test\bntest.c(1802): warning C4267: 'función': conversión de 'size_t' a 'const int'; posible pérdida de datos
+..\test\bntest.c(1808): warning C4267: 'función': conversión de 'size_t' a 'int'; posible pérdida de datos
+..\test\bntest.c(1811): warning C4267: 'función': conversión de 'size_t' a 'int'; posible pérdida de datos
+..\test\bntest.c(1811): warning C4267: 'función': conversión de 'size_t' a 'const int'; posible pérdida de datos
+..\test\bntest.c(1815): warning C4267: 'función': conversión de 'size_t' a 'int'; posible pérdida de datos
+..\test\bntest.c(1815): warning C4267: 'función': conversión de 'size_t' a 'const int'; posible pérdida de datos
+..\test\bntest.c(2052): warning C4267: 'función': conversión de 'size_t' a 'int'; posible pérdida de datos
+..\test\bntest.c(2866): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
